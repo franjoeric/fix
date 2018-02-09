@@ -1,0 +1,48 @@
+.choose-date-time .choose-date-times .choose-time input[type="radio"]+label:hover,
+.reschedule-choose-date-time .choose-time input[type="radio"]+label:hover,
+.choose-date-time .date .choose-time-actions,
+.date .choose-time input[type="radio"]:checked+label,
+.reschedule-choose-date-time .date .choose-time input[type="radio"]:checked+label,
+.reschedule-choose-date-time .date .choose-time-actions,
+.choose-date-time .date-head-text,
+.reschedule-choose-date-time .date-head-text {
+    border-color: #EF2F42;
+    color: #EF2F42;
+}
+
+
+.choose-time-container label:hover,
+.choose-time-container label.checked,
+.btn-info,
+.btn-primary.disabled,
+.btn-primary[disabled],
+.btn-primary,
+.btn-primary:focus,
+.btn.btn-primary.btn-block.btn-next-step,
+.btn.btn-primary.submit-forms-payment,
+.btn.btn-primary:hover,
+.btn.btn-primary:active {
+    background: #EF2F42;
+    background-image: none;
+}
+
+
+.choose-time-container label:hover,
+.choose-time-container label.checked,
+.btn-info,
+.btn-primary.disabled,
+.btn-primary[disabled],
+.btn-primary,
+.btn-primary:focus,
+.btn.btn-primary.btn-block.btn-next-step,
+.btn.btn-primary.submit-forms-payment,
+.btn.btn-primary:hover,
+.btn.btn-primary:active {
+    background: #EF2F42;
+    background-image: none;
+}
+
+
+a, a:hover, a:focus, a.btn-link {
+    color: #EF2F42;
+}
